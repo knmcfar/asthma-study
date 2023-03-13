@@ -1,10 +1,10 @@
 # 540 Midterm: Effects of Pollution on Lung Function of Children
 
-A short individual report was created for the BIOST 540: Longitudinal and Multilevel Data Analysis midterm. This report aims to examine the relationship between lung function of asthmatic children (captured using FEV1 level) and pollution level over time using a generalized estimating equation model.
+This short individual report was created for the BIOST 540: Longitudinal and Multilevel Data Analysis midterm. This report aims to examine the relationship between lung function of asthmatic children (captured using FEV1 level) and pollution level over time using a generalized estimating equation (GEE) model.
 
 # Contents
 
-The report, R code, and csv file containing the dataset are uploaded to this repository. If the dataset is saved to the same directory that the working directory is set to, the dataset can be imported to R directly using the code.
+The report, R code, and csv file containing the dataset are uploaded to this repository. If the dataset is saved to the same directory that the working directory is set to in R, the dataset can be imported to R directly using the given code.
 
 # Lessons Learned
 
