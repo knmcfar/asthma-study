@@ -1,6 +1,6 @@
-# 540 Midterm: Effects of Pollution on Lung Function of Children
+# Effects of Pollution on Lung Function of Children
 
-This short individual report was created for the BIOST 540: Longitudinal and Multilevel Data Analysis midterm. This report aims to examine the relationship between lung function of asthmatic children (captured using FEV1 level) and pollution level over time using a generalized estimating equation (GEE) model.
+This individual report was created for the BIOST 540: Longitudinal and Multilevel Data Analysis midterm. This report aims to examine the relationship between lung function of asthmatic children (captured using FEV1 level) and pollution level over time using a generalized estimating equation (GEE) model.
 
 # Contents
 
